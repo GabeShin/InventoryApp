@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_category_options">
+        <item>@string/item_category_others</item>
+        <item>@string/item_category_toy</item>
+        <item>@string/item_category_living</item>
+        <item>@string/item_category_fashion</item>
+        <item>@string/item_category_school</item>
+        <item>@string/item_category_tech</item>
+        <item>@string/item_category_outdoor</item>
+        <item>@string/item_category_collaboration</item>
+        <item>@string/item_category_jewelry</item>
+        <item>@string/item_category_toddler</item>
+        <!--<item>@string/</item>-->
+    </string-array>
+</resources>
